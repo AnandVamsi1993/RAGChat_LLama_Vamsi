@@ -1,0 +1,12 @@
+flask
+langchain
+pinecone-client
+torch
+transformers
+sentence-transformers
+python-dotenv
+boto3
+bitsandbytes
+accelerate
+pypdf
+flask-cors
