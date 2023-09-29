@@ -19,7 +19,8 @@ My application mimics the following AWS architecture, except I built this whole 
 
 
 
-![ChatBot_RAG - ChatBot_Architecture](https://github.com/AnandVamsi1993/RAGChat_LLama_Vamsi/assets/52344613/4bb04519-5d6d-49de-a8ca-4f78882782db)
+![ChatBot_RAG - ChatBot_Architecture](https://github.com/AnandVamsi1993/RAGChat_LLama_Vamsi/assets/52344613/05886363-b1ba-4698-a8da-297d53774c23)
+
 
 
 So something similar in Runpod does this:
