@@ -29,6 +29,18 @@ So something similar in Runpod does this:
 
 ##Instructions
 
+### Runpod Instructions (Prerequisistes - Python 3.10 should be installed)
+
+1) Clone the github repository
+2) Navigate to Chatbot_Lllama2_RAG_Flask
+3) Run pip install -r requirements.txt
+4) Navigate to https://{tunnel_no}-5000.proxy.runpod.net/   ----- Only limited access. I would have shared tunnel number already if you are trying this option
+
+
+
+
+
+
 ###Prerequisites - Docker should be installed
 
 1) Clone rhe repository to your local machine/remote server
