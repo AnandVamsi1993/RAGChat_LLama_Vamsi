@@ -22,3 +22,20 @@ My application mimics the following AWS architecture, except I built this whole 
 ![ChatBot_RAG - ChatBot_Architecture](https://github.com/AnandVamsi1993/RAGChat_LLama_Vamsi/assets/52344613/4bb04519-5d6d-49de-a8ca-4f78882782db)
 
 
+So something similar in Runpod does this:
+![RAG_Architecture](https://github.com/AnandVamsi1993/RAGChat_LLama_Vamsi/assets/52344613/7eb77d21-3d8f-44b7-a8d2-fb6ba4ae2aba)
+
+
+##Instructions
+
+###Prerequisites - Docker should be installed
+
+1) Clone rhe repository to your local machine/remote server
+2) docker build -t bluellama .
+3) docker run --env-file .env -p 5000:5000 bluellama
+
+
+Building the image takes ~300 seconds
+
+
+
